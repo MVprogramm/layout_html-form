@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,cACE,eACF,CAEA,eACE,kBAEF,CAEA,oBAHE,eAKF","file":"style.cb8da7ef.css","sourceRoot":"..\\src","sourcesContent":[".input__field {\n  margin-top: 10px;\n}\n\n.inputs__group {\n  margin-bottom: 10px;\n  margin-top: 20px;\n}\n\n.sub {\n  margin-top: 20px;\n}\n"]}
